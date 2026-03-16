@@ -20,7 +20,7 @@ The system uses **Flask for the web server**, **Pillow for image processing**, a
 
 Below is the web interface used to edit and send images to the TFT display.
 
-![UI Preview](screenshots/ui_preview.png)
+![UI Preview](screenshots/ui_perview.png)
 
 ---
 
