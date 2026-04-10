@@ -1,4 +1,4 @@
-Raspberry Pi TFT Web Image Controller (ST7789 SPI Display)
+# Raspberry Pi TFT Web Image Controller (ST7789 SPI Display)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Compatible-red)
