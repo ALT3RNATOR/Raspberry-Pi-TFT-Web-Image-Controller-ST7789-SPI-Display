@@ -1,6 +1,9 @@
 # Raspberry Pi TFT Web Image Controller (ST7789 SPI Display)
 
-
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Compatible-red)
+![SPI](https://img.shields.io/badge/Interface-SPI-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A web-based controller for a **2.4" ST7789 SPI TFT display** using Raspberry Pi. 
 Upload, crop, zoom, and invert images through a browser interface and display them on the TFT screen in real time.
