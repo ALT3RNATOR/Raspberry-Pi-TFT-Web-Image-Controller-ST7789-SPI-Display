@@ -10,7 +10,6 @@ Upload, crop, zoom, and invert images through a browser interface and display th
 
 
 A **web-based image controller for SPI TFT displays** using Raspberry Pi.  
-
 This project allows users to **upload, crop, zoom, invert, and display images** on a **2.4" ST7789 TFT screen (320×240)** through a browser interface.
 
 The system uses **Flask for the web server**, **Pillow for image processing**, and **SPI communication** to render images on the TFT display.
